@@ -3,3 +3,5 @@ pandas
 openpyxl
 plotly
 sweetviz
+streamlit
+mysql-connector-python
